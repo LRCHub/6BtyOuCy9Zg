@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あっけない",
+  "base_artist": "めいちゃん",
+  "createdAt": "2026-03-13T14:08:23.095578Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あっけない",
+      "artist": "めいちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_あっけない_めいちゃん.txt"
+    }
+  ]
+}
